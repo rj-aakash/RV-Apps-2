@@ -1,11 +1,11 @@
         
 [
   {
-    "patchName": "Change header",
+    "patchName": "Custom Shorts action buttons",
     "options": [
       {
-        "key": "header",
-        "value": "premium*header"
+        "key": "IconType",
+        "value": "Cairo"
       }
     ]
   },
@@ -14,7 +14,7 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "Revancify Red"
+        "value": "Xisr Yellow"
       }
     ]
   },
@@ -32,7 +32,7 @@
     "options": [
       {
         "key": "AppIcon",
-        "value": "Revancify Red"
+        "value": "Xisr Yellow"
       }
     ]
   },
